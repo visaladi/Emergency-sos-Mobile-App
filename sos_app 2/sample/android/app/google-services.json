@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "928647770977",
+    "project_id": "sos-app-c7667",
+    "storage_bucket": "sos-app-c7667.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928647770977:android:c641b333cf87823fb7cb20",
+        "android_client_info": {
+          "package_name": "com.example.sample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjObtVHP4c9O2yzQeC4_DtP26oExnic28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
